@@ -1,0 +1,12 @@
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\bin\Debug\net8.0\PostManager.Domain.deps.json
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\bin\Debug\net8.0\PostManager.Domain.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\bin\Debug\net8.0\PostManager.Domain.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.csproj.AssemblyReference.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.AssemblyInfoInputs.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.AssemblyInfo.cs
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\refint\PostManager.Domain.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\PostManager.Domain.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Domain\obj\Debug\net8.0\ref\PostManager.Domain.dll

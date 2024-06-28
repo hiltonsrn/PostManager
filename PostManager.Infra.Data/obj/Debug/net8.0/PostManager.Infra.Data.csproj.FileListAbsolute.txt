@@ -1,0 +1,15 @@
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.AssemblyInfo.cs
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\bin\Debug\net8.0\PostManager.Infra.Data.deps.json
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\bin\Debug\net8.0\PostManager.Infra.Data.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\bin\Debug\net8.0\PostManager.Infra.Data.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\bin\Debug\net8.0\PostManager.Domain.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\bin\Debug\net8.0\PostManager.Domain.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostMana.382D82B5.Up2Date
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\refint\PostManager.Infra.Data.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\PostManager.Infra.Data.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Infra.Data\obj\Debug\net8.0\ref\PostManager.Infra.Data.dll

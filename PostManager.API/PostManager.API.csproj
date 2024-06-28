@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<NoWarn>$(NoWarn);1591</NoWarn>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+		<PackageReference Include="JWT" Version="10.1.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+		<PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+		<PackageReference Include="Microsoft.AspNetCore.SignalR.Core" Version="1.1.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.6.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.6.2" />
+		<PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\PostManager.Domain\PostManager.Domain.csproj" />
+		<ProjectReference Include="..\PostManager.Global\PostManager.Global.csproj" />
+		<ProjectReference Include="..\PostManager.Service\PostManager.Service.csproj" />
+	</ItemGroup>
+
+</Project>

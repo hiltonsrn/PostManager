@@ -1,0 +1,11 @@
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\bin\Debug\net8.0\PostManager.Global.deps.json
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\bin\Debug\net8.0\PostManager.Global.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\bin\Debug\net8.0\PostManager.Global.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\PostManager.Global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\PostManager.Global.AssemblyInfoInputs.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\PostManager.Global.AssemblyInfo.cs
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\PostManager.Global.csproj.CoreCompileInputs.cache
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\PostManager.Global.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\refint\PostManager.Global.dll
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\PostManager.Global.pdb
+C:\Users\hilton.rocha\source\repos\PostManager\PostManager.Global\obj\Debug\net8.0\ref\PostManager.Global.dll

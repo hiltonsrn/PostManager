@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PostManager.API</name>
+    </assembly>
+    <members>
+        <member name="M:PostManager.API.Controllers.PostController.Add(PostManager.API.DTO.PostDTO)">
+            <summary>
+            Cadastra uma postagem para o sistema.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "descricao": "Teste"
+                }
+            </remarks>
+            <returns>Postagem cadastrada ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Postagem cadastrada</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+            <response code="401">Mensagem de erro caso usuário não esteja autorizado</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.PostController.Update(PostManager.API.DTO.PostDTO)">
+            <summary>
+            Atualiza uma postagem no sistema.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "id":1,
+                   "descricao": "Teste"
+                }
+            </remarks>
+            <returns>Postagem atualiza ou uma mensagem de erro caso a atualização não seja realizada</returns>
+            <response code="200">Postagem atualizada</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+            <response code="401">Mensagem de erro caso usuário não esteja autorizado</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.PostController.Delete(System.Int32)">
+            <summary>
+            Exclui uma postagem no sistema.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "id": 1
+                }
+            </remarks>
+            <returns>Mensagem de exclusão ou mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Mensagem de sucesso</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+            <response code="401">Mensagem de erro caso usuário não esteja autorizado</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.PostController.Get(System.Int32)">
+            <summary>
+            Retorna uma postagem cadastrada no sistema.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "id": 1
+                }
+            </remarks>
+            <returns>Postagem cadastrada ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Postagem cadastrada</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+            <response code="401">Mensagem de erro caso usuário não esteja autorizado</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.PostController.ListByUser">
+            <summary>
+            Lista de postagens do usuário corrente.
+            </summary>
+            <returns>Lista de postagens cadastradas ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Postagens cadastradas pelo usuário corrente</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+            <response code="401">Mensagem de erro caso usuário não esteja autorizado</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.PostController.ListLast(System.String)">
+            <summary>
+            Lista postagens cadastradas por outros usuários no sistema.
+            </summary>
+            <returns>Lista postagens cadastradas por outros usuários ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Postagens cadastradas por outros usuários</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+            <response code="401">Mensagem de erro caso usuário não esteja autorizado</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.UsuarioController.Add(PostManager.API.DTO.UsuarioDTO)">
+            <summary>
+            Efetua o cadastro de usuário no sistema.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "nome": "José",
+                   "email": "jose@email.com",
+                   "senha": "123456",
+                   "confirmSenha": "123456"
+                }
+            </remarks>
+            <returns>Usuário cadastrado ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Usuário cadastrado com sucesso</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.UsuarioController.Update(PostManager.API.DTO.UsuarioDTO)">
+            <summary>
+            Altera o cadastro do usuário no sistema.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "nome": "José",
+                   "email": "jose@email.com",
+                   "senha": "123456",
+                   "confirmSenha": "123456",
+                   "novaSenha": "123456",
+                   "confirmNovaSenha": "123456"
+                }
+            </remarks>
+            <returns>Usuário utualizado ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Usuário atualizado com sucesso</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+        </member>
+        <member name="M:PostManager.API.Controllers.UsuarioController.Get(System.String,System.String)">
+            <summary>
+            Retorna o usuário através do E-mail e senha cadastrados.
+            </summary>
+            <remarks>
+            Exemplo:
+                {
+                   "email": "jose@email.com",
+                   "senha": "123456"
+                }
+            </remarks>
+            <returns>Usuário registrado ou uma mensagem de erro caso o cadastro não seja realizado</returns>
+            <response code="200">Usuário cadastrado</response>
+            <response code="400">Mensagem de erro informando o que houve de errado na operação</response>
+        </member>
+    </members>
+</doc>
